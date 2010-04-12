@@ -1,0 +1,14 @@
+fr:
+  meta:
+    default:
+      page_title: 'Default Title Fr'
+      page_description: 'Default description Fr'
+      "page_title - %s": 'Default Title %s Fr'
+      "page_title - %s - %s": 'Default Title %s Fr - %s'
+    users:
+      index:
+        page_title: 'Listing des membres' 
+        page_description: 'La page de la liste des membres'
+      show:
+        "page_title - login: %s": '%s, membre de notre site' 
+        "page_description - login: %s": '%s est membre de notre site' 

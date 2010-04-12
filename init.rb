@@ -1,0 +1,1 @@
+require 'seo_meta_builder'

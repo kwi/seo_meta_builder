@@ -1,0 +1,15 @@
+en:
+  yo: 'salut'
+  meta:
+    default:
+      page_title: 'Default Title'
+      page_description: 'Default description'
+      "page_title - %s": 'Default Title %s'
+      "page_title - %s - %s": 'Default Title %s - %s'
+    users:
+      index:
+        page_title: 'Members list'
+        page_description: 'Members list description'
+      show:
+        "page_title - login: %s": '%s, member of our site'
+        "page_description - login: %s": '%s is member of our website'

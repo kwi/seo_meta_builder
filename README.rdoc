@@ -1,0 +1,13 @@
+= SeoMetaBuilder
+
+Seo Meta Builder is a plugin for Ruby on Rails that lets you easily manage your meta titles and descriptions.
+
+All necessary informations are available on the wiki : http://wiki.github.com/kwi/seo_meta_builder
+
+== Functionalities :
+
+* Help to eradicate duplicate titles and descriptions (Very good for SEO)
+* Build title/description with multiple parameters
+* Works with multiple languages through the I18n Api.
+
+Copyright (c) 2010 Guillaume Luccisano - g-mai|: guillaume.luccisano, released under the MIT license
