@@ -7,7 +7,9 @@ All necessary informations are available on the wiki : http://wiki.github.com/kw
 == Functionalities :
 
 * Help to eradicate duplicate titles and descriptions (Very good for SEO)
+* Easy to set up
 * Build title/description with multiple parameters
 * Works with multiple languages through the I18n Api.
+* Works with Rails 2 and Rails 3
 
 Copyright (c) 2010 Guillaume Luccisano - g-mai|: guillaume.luccisano, released under the MIT license
