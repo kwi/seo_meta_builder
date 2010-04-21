@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = "seo_meta_builder"
-  s.version = "0.1.0"
+  s.version = "0.1.1"
   s.author = "Guillaume Luccisano"
   s.email = "guillaume.luccisano@gmail.com"
   s.homepage = "http://github.com/kwi/seo_meta_builder"
